@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "6f267d92-455e-45bf-9f23-16ee28d8603f",
+		"name": "Test with github",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Hello",
+			"id": "1e6e9067-d530-4f7c-b442-581287d5e545",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://google.com"
+			},
+			"response": []
+		}
+	]
+}
